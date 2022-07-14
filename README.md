@@ -1,3 +1,6 @@
+## seja bem vindo ao meu perfil 👋
+  Sou desenvolvedor front-end em treinamento, estou estudando atualmente HTML, CSS, JavaScript e React.
+
 <div>
   <a href="https://github.com/lucas1711">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas1711&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
